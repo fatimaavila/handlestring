@@ -1,5 +1,4 @@
-# handlestring
-
+# Handle String
 
 
 Para correrlo localmente debe instalar los requirimientos y utilizar python3.
